@@ -232,7 +232,6 @@ h6 {
   }
   h6 {
     font-size: 1.6rem;
-	font-style: normal;
   }
 }
 
@@ -456,6 +455,11 @@ svg {
   display: block;
 }
 
+/*PUBLIC-SUMMARY*/
+.public-summary h6 {
+  font-family: "Roboto Slab", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 
 /*MATERIALS*/
 
@@ -500,11 +504,11 @@ pre code {
 .faq ul li{
 	list-style:none;
 	margin:0.5em 0em;
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Roboto Slab', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .faq ol li{
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Roboto Slab', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 10pt;
 }
 
