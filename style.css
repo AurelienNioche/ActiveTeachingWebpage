@@ -240,6 +240,7 @@ h6 {
 }
 p {
   margin-top: 0;
+  text-align: justify;
   font-family: 'Roboto Slab', serif;
 }
 
